@@ -1,2 +1,2 @@
 # hello-world
-simple starter project
+simple starter project.
